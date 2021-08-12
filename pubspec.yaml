@@ -31,6 +31,7 @@ dependencies:
   camera: ^0.8.1+7
   video_player: ^2.1.12
   path_provider: ^2.0.2
+  flutter_datetime_picker: ^1.5.1
 
 dev_dependencies:
   flutter_test:
